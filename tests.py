@@ -48,3 +48,6 @@ class GeometricLibTestCase(unittest.TestCase):
     def test_triangle_perimeter(self):
         res = triangle.perimeter(3, 4, 5)
         self.assertEqual(res, 12)
+    def test_triangle_perimeter2(self):
+        res = triangle.perimeter(10, 5, 5)
+        self.assertEqual(res, 2)
