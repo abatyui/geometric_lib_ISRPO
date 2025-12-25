@@ -24,4 +24,4 @@ def perimeter(a, b, c):
     Возвращаемое значение:
     perimeter (int или float): Периметр треугольника (a + b + c).
     '''
-return a + b + c
+    return a + b + c
