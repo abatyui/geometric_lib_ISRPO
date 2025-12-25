@@ -123,7 +123,9 @@
 
 ## 4. История изменения проекта 
 
-* `8283532 (HEAD -> new_features_501382) Add docstrings to all functions`
+* `8abeee3 (HEAD -> new_features_501382) Add unit tests`
+* `b329560 All documentation`
+* `8283532 Add docstrings to all functions`
 * `620c1f9 fix bug`
 * `efd2300 add file rectangle`
 * `d078c8d (origin/main, origin/HEAD, main) L-03: Docs added`
